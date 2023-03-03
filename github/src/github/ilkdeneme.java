@@ -6,4 +6,5 @@ public class ilkdeneme {
 	//3 adima gectik
 	//4 adima da gectik 
 	//5 yeni denememiz
+	//yeni ekleme
 }
