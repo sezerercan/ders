@@ -7,4 +7,5 @@ public class ilkdeneme {
 	//4 adima da gectik 
 	//5 yeni denememiz
 	//yeni ekleme
+	//dersi bitiriyoruz
 }
